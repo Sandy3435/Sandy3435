@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 
-  <h1 align = "center">Hi there, My name is Sandrine 👋😊</h1>
+  <h1 align = "center">Hello, My name is Sandrine 👋😊</h1>
 
 - 🔭 I’m a Python Developer
 - 🌱 I’m currently learning Data Science
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=Sandy3435&style=flat-square&color=blue" alt="img"/>
 
 ### :hammer_and_wrench: Languages and Tools :
-<div align= "center">
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-plain-wordmark.svg?plain=1" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-line.svg?plain=1" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
@@ -44,4 +44,3 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandy3435&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
