@@ -1,10 +1,13 @@
-<center>Hi there, My name is Sandy 👋😊</center> 
 
 <!--
 **Sandy3435/Sandy3435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+
+
+  <h1 align = "center">Hi there, My name is Sandy 👋😊</h1>
+
 - 🔭 I’m a Python Developer
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Machine Learning and Data Science Projects
@@ -28,4 +31,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username= Sandy3435&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Sandy3435&style=flat-square&color=blue" alt="img"/>
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-plain-wordmark.svg?plain=1" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-line.svg?plain=1" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-line.svg?plain=1" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+</div>
