@@ -1,4 +1,4 @@
-### Hi there, My name is Sandy 👋
+<center>Hi there, My name is Sandy 👋😊</center> 
 
 <!--
 **Sandy3435/Sandy3435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love movies
 
-  <img src="https://komarev.com/ghpvc/?username= Sandy3435&style=flat-square&color=blue" alt=""/>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611138hiisafe8b5xmbhtsogyszcwvwejvaa6mf8a6t&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
@@ -28,3 +28,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username= Sandy3435&style=flat-square&color=blue" alt=""/>
