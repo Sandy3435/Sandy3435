@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love movies
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611138hiisafe8b5xmbhtsogyszcwvwejvaa6mf8a6t&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611138hiisafe8b5xmbhtsogyszcwvwejvaa6mf8a6t&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
 </div>
 
